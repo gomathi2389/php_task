@@ -1,0 +1,17 @@
+1. What is framework?
+A framework is a platform that provides developers with a set of tools and libraries
+to build web applications to more efficient way. It provides a structure for organizing code, 
+handling requests and managing databases  and including faster development.
+Examples:
+1.laravel: laravel is a opensource php framework that follows the (MVC) architecture. it offers 
+features such as routing, authentication, and caching, making it easy to build web applications quickly.
+2.symfony: sympony is a php framework that features the MVC architecture.It offers reusable components for
+building web applications.It provides such as routing and templating.
+
+2.What is Rest API?
+RESTful API is an interface that two computer systems use to exchange information securely over the internet.
+In php refers to rules for creating web services that allow communication between different systems. 
+(representational state transfer)
+Rest every content is a resources.eg: text file,html pages,images,videos and datas.
+Rest server simply provides access to resource.client accesses and modifies the resources.
+resources are identified by URL's. uniform resource locator-> its used to rest is over the internet locating every resoures to access it.
